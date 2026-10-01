@@ -93,7 +93,7 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <ThemeToggle />
             <a
-              href="https://github.com"
+              href="https://github.com/manojkumar16122/JobFit"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors"
@@ -332,7 +332,7 @@ export default function Home() {
         <footer className="mt-16 pt-8 border-t border-slate-200 dark:border-slate-800 text-center text-sm text-slate-500 dark:text-slate-400">
           <p>
             Built with Next.js, Groq, and ❤️ ·{' '}
-            <a href="https://github.com" className="text-indigo-600 dark:text-indigo-400 hover:underline">
+            <a href="https://github.com/manojkumar16122/JobFit" className="text-indigo-600 dark:text-indigo-400 hover:underline">
               View source
             </a>
           </p>
