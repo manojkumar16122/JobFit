@@ -49,11 +49,6 @@ export default function Home() {
     }
   };
 
-  const loadSample = () => {
-    setResume(SAMPLE_RESUME);
-    setJd(SAMPLE_JD);
-    setError('');
-  };
 
   const reset = () => {
     setResume('');
