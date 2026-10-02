@@ -2,7 +2,7 @@
 
 An open-source AI tool that compares your resume against any job description and gives you an honest match score, missing keywords, and a tailored summary.
 
-**[Live Demo](https://jobfit-ai.vercel.app)** <!-- REPLACE with your Vercel URL --> · **[Report a Bug](https://github.com/manojkumar16122/JobFit/issues)** · **[Request a Feature](https://github.com/manojkumar16122/JobFit/issues)**
+**[Live Demo](https://jobfitai-nu.vercel.app/)** <!-- REPLACE with your Vercel URL --> · **[Report a Bug](https://github.com/manojkumar16122/JobFit/issues)** · **[Request a Feature](https://github.com/manojkumar16122/JobFit/issues)**
 
 ---
 
