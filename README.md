@@ -161,6 +161,6 @@ Then open a Pull Request.
 ## Author
 
 **Manoj Kumar**
-[GitHub](https://github.com/manojkumar16122) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) <!-- REPLACE with your LinkedIn -->
+[GitHub](https://github.com/manojkumar16122) · [LinkedIn](https://www.linkedin.com/in/manojkumar-v-39b6b7230/)
 
 If this helped you, give the repo a ⭐ — it helps others find it too.
